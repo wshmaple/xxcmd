@@ -1,0 +1,18 @@
+{
+    "name": "xx",
+    "version": "0.0.1",
+    "description": "cli cmd package",
+    "preferGlobal": "true",
+    "bin": {
+        "xx": "app.js"
+    },
+    "author": "wsh",
+    "engines": {
+        "node": "*"
+    },
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "commander": "^2.19.0",
+        "gulp": "^4.0.0"
+    }
+}
